@@ -1,0 +1,19 @@
+#image {
+  height: min-content;
+  width: min-content;
+}
+h1 {
+  width: min-content;
+  text-align: center;
+  font-size: x-large;
+  margin-top: 10px;
+}
+#card {
+  border-radius: 100px;
+  height: 128px;
+  width: 128px;
+}
+#card:hover {
+  cursor: pointer;
+  background-color: rgb(235, 252, 1);
+}
